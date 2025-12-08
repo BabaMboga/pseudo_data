@@ -149,6 +149,16 @@
             "id" : 30,
             "img_url": "https://i.pinimg.com/736x/8c/8f/2a/8c8f2ad8e53c7773b4192a322d562f82.jpg",
             "name": "scifi_landscape"
+        },
+        {
+            "id" : 31,
+            "img_url": "https://i.pinimg.com/736x/b6/fc/1a/b6fc1af9099d57c7be18c5821aa63eef.jpg",
+            "name": "lee-vs-mike"
+        },
+        {
+            "id" : 32,
+            "img_url": "https://i.pinimg.com/1200x/a6/7f/ca/a67fca635af179ba00874beadac48c4e.jpg",
+            "name": "scooby_doo"
         }
     ],
     "films": [
